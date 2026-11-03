@@ -25,7 +25,7 @@ The project focused on improving the website's user interface, redesigning exist
 ## Screenshots
 
 ### Admin Page
-![Homepage](screenshots\Screenshot_3-11-2026_161928_127.0.0.1.jpeg)
+![Homepage]([screenshots\Screenshot_3-11-2026_161928_127.0.0.1.jpeg](https://github.com/Wanga-netizen/Limpopo-Department-Health-Website-Improvement/blob/main/screenshots/DOH%20Screenshot.jpeg))
 
 ### Homepage
 ![Navigation](screenshots\HomepageScreenshot.github.io.jpeg)
