@@ -22,6 +22,14 @@ The project focused on improving the website's user interface, redesigning exist
 - CSS
 - JavaScript
 
+## Screenshots
+
+### Admin Page
+![Homepage](screenshots\Screenshot_3-11-2026_161928_127.0.0.1.jpeg)
+
+### Homepage
+![Navigation](screenshots\HomepageScreenshot.github.io.jpeg)
+
 ## Collaboration
 
 This was a collaborative academic project completed by two Computer Science students who contributed equally to the website improvements, design changes and development work.
